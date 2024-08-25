@@ -1,6 +1,6 @@
 """
-原仓库 https://github.com/HViktorTsoi/MultithreadingDownloader
-
+改于仓库 https://github.com/HViktorTsoi/MultithreadingDownloader
+此仓库https://github.com/MiaoluoYuanlina/multithreaded_download
 
 """
 import multiprocessing
